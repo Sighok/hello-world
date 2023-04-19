@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T13:18:46.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bWNC-UKTi9jDBV4QioXZ" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T06:06:17.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rGD7bBAqlhKDIOEECueo" version="21.1.8" type="github">
   <diagram name="Side-1" id="svqQulUeOBDjTAGsCi2p">
-    <mxGraphModel dx="2049" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="2868" dy="1528" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,13 +256,13 @@
         <mxCell id="wIaHaO2FN9Urou3l482N-89" value="Netfiks. (L)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=-90;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-34" vertex="1">
           <mxGeometry x="370" y="356" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-10" value="Pasta&lt;br style=&quot;font-size: 18px;&quot;&gt;NuPrep" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="wIaHaO2FN9Urou3l482N-34">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-10" value="Pasta&lt;br style=&quot;font-size: 18px;&quot;&gt;NuPrep" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-34" vertex="1">
           <mxGeometry x="230" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wIaHaO2FN9Urou3l482N-63" value="Gel, SAC2 Low Imp" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-34" vertex="1">
           <mxGeometry x="375" y="220" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-11" value="Pasta&lt;br style=&quot;font-size: 18px;&quot;&gt;Ten20" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="wIaHaO2FN9Urou3l482N-34">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-11" value="Pasta&lt;br style=&quot;font-size: 18px;&quot;&gt;Ten20" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-34" vertex="1">
           <mxGeometry x="90" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wIaHaO2FN9Urou3l482N-84" value="Lynlåspose &lt;br&gt;30x40cm" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-34" vertex="1">
@@ -373,49 +373,37 @@
         <mxCell id="wIaHaO2FN9Urou3l482N-215" value="Elektrode&lt;br style=&quot;font-size: 18px;&quot;&gt;EEG cup&lt;br style=&quot;font-size: 18px;&quot;&gt;10stk/pos 150cm" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-210" vertex="1">
           <mxGeometry x="61" y="74" width="171" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;size=22.5;arcSize=17;rotation=-180;labelBackgroundColor=none;shadow=0;fillStyle=auto;allowArrows=1;snapToPoint=0;strokeWidth=2;perimeterSpacing=0;labelBorderColor=none;fillColor=#F0B199;fontSize=18;fontFamily=Verdana;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="wIaHaO2FN9Urou3l482N-210">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;size=22.5;arcSize=17;rotation=-180;labelBackgroundColor=none;shadow=0;fillStyle=auto;allowArrows=1;snapToPoint=0;strokeWidth=2;perimeterSpacing=0;labelBorderColor=none;fillColor=#F0B199;fontSize=18;fontFamily=Verdana;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-210" vertex="1">
           <mxGeometry x="16" y="184" width="609" height="222" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-2" value="Elektrode&lt;br style=&quot;font-size: 18px;&quot;&gt;EEG cup&lt;br style=&quot;font-size: 18px;&quot;&gt;10stk/pos 100cm" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="wIaHaO2FN9Urou3l482N-210">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-2" value="Elektrode&lt;br style=&quot;font-size: 18px;&quot;&gt;EEG cup&lt;br style=&quot;font-size: 18px;&quot;&gt;10stk/pos 100cm" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-210" vertex="1">
           <mxGeometry x="51" y="208" width="165" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-4" value="Elektrode&lt;br&gt;EKG WhiteS&lt;br style=&quot;font-size: 18px;&quot;&gt;38x19mm" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="wIaHaO2FN9Urou3l482N-210">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-4" value="Elektrode&lt;br&gt;EKG WhiteS&lt;br style=&quot;font-size: 18px;&quot;&gt;38x19mm" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-210" vertex="1">
           <mxGeometry x="53.5" y="306" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-5" value="Elektrode &lt;br style=&quot;font-size: 18px;&quot;&gt;EKG BlueS P&amp;nbsp;&lt;br style=&quot;font-size: 18px;&quot;&gt;Ø34mm" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="wIaHaO2FN9Urou3l482N-210">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-5" value="Elektrode &lt;br style=&quot;font-size: 18px;&quot;&gt;EKG BlueS P&amp;nbsp;&lt;br style=&quot;font-size: 18px;&quot;&gt;Ø34mm" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-210" vertex="1">
           <mxGeometry x="236" y="304" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-6" value="Elektrode&lt;br&gt;EKG WhiteS&lt;br style=&quot;font-size: 18px;&quot;&gt;38x19mm" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="wIaHaO2FN9Urou3l482N-210">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-6" value="Elektrode&lt;br&gt;EKG WhiteS&lt;br style=&quot;font-size: 18px;&quot;&gt;38x19mm" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-210" vertex="1">
           <mxGeometry x="238" y="208" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-7" value="Pasta&lt;br style=&quot;font-size: 18px;&quot;&gt;NuPrep" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="wIaHaO2FN9Urou3l482N-210">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-7" value="Pasta&lt;br style=&quot;font-size: 18px;&quot;&gt;NuPrep" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-210" vertex="1">
           <mxGeometry x="419" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-8" value="Pasta&lt;br style=&quot;font-size: 18px;&quot;&gt;Ten20" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="wIaHaO2FN9Urou3l482N-210">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-8" value="Pasta&lt;br style=&quot;font-size: 18px;&quot;&gt;Ten20" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;spacingRight=2;spacingLeft=2;sketch=1;curveFitting=1;jiggle=2;" parent="wIaHaO2FN9Urou3l482N-210" vertex="1">
           <mxGeometry x="419" y="306" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-9" value="Måske?" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="wIaHaO2FN9Urou3l482N-210">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-9" value="Måske?" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="wIaHaO2FN9Urou3l482N-210" vertex="1">
           <mxGeometry x="446" y="160" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-14" value="Hygiejne" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="734" y="1663" width="196" height="40" as="geometry" />
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-18" value="Hygiejne" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-29" y="264" width="158" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-15" value="Pasta/gel" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="734" y="1863" width="196" height="40" as="geometry" />
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-20" value="Forbrugsvare" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-103.62" y="511.38" width="307.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-16" value="Forbrugsvare" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="734" y="2070" width="196" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-17" value="Elektroder" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="734" y="2272" width="196" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-18" value="Hygiejne" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-61" y="317" width="222" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-20" value="Forbrugsvare" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-61.25" y="553.75" width="222.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hg8EG3NnJH5CYO38RCTZ-21" value="Elektroder" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="hg8EG3NnJH5CYO38RCTZ-21" value="Elektroder" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-67.5" y="796.5" width="229" height="40" as="geometry" />
         </mxCell>
       </root>
