@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T06:06:17.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rGD7bBAqlhKDIOEECueo" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T13:17:56.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tfh41i3vCAibnCOSkAsI" version="21.2.0" type="github">
   <diagram name="Side-1" id="svqQulUeOBDjTAGsCi2p">
     <mxGraphModel dx="2868" dy="1528" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
@@ -396,6 +396,9 @@
         </mxCell>
         <mxCell id="hg8EG3NnJH5CYO38RCTZ-9" value="Måske?" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="wIaHaO2FN9Urou3l482N-210" vertex="1">
           <mxGeometry x="446" y="160" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bQisO7bHdGj_hKkLEHH9-1" value="Gel&lt;br&gt;Ultralyd" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=18;strokeWidth=1;direction=west;rotation=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="wIaHaO2FN9Urou3l482N-210">
+          <mxGeometry x="242" y="72" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hg8EG3NnJH5CYO38RCTZ-18" value="Hygiejne" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-29" y="264" width="158" height="40" as="geometry" />
