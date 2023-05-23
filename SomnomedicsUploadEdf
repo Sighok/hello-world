@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T09:55:29.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="VUOosXCfHw1zjWCX4Z03" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T10:17:44.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="yjzw7RJkIA6HnHJE4DMg" version="21.3.2" type="github">
   <diagram name="Side-1" id="cJWhcWU53kz6fXNBdO6d">
-    <mxGraphModel dx="1434" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,31 +8,40 @@
           <mxGeometry x="360" y="1240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="My1GI1h0NHrTWBdIuX5J-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-40" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="My1GI1h0NHrTWBdIuX5J-3" value="Read excel to PathList" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="My1GI1h0NHrTWBdIuX5J-4" value="Åben Somnomedics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="My1GI1h0NHrTWBdIuX5J-3" value="Read excel to &amp;lt;PathList&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="My1GI1h0NHrTWBdIuX5J-4" value="Åben Somnomedics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="My1GI1h0NHrTWBdIuX5J-5" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="My1GI1h0NHrTWBdIuX5J-6" value="Klik &quot;Analysis&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="My1GI1h0NHrTWBdIuX5J-7" value="For each Path in PathList" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="My1GI1h0NHrTWBdIuX5J-7" value="For each Path in PathList" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="240" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="My1GI1h0NHrTWBdIuX5J-8" value="Click &quot;Import EDF&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="My1GI1h0NHrTWBdIuX5J-9" value="Paste Path, enter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="My1GI1h0NHrTWBdIuX5J-8" value="Paste &amp;lt;Path&amp;gt;,&lt;br&gt;enter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="My1GI1h0NHrTWBdIuX5J-10" value="Select rullegardin, select &quot;Plus PSG+&quot;, enter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="My1GI1h0NHrTWBdIuX5J-11" value="Click &quot;Import EDF&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="My1GI1h0NHrTWBdIuX5J-12" value="Select rullegardin, select &quot;Plus PSG+&quot;, enter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="My1GI1h0NHrTWBdIuX5J-13" value="Assign .../&amp;lt;Name&amp;gt;.edf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="559" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="My1GI1h0NHrTWBdIuX5J-14" value="Paste&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
